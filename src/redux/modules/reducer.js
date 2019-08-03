@@ -1,10 +1,10 @@
 import { combineReducers } from 'redux';
 
-import movies from './movies';
+import images from './images';
 
 const rootReducer = combineReducers({
   //state: (state = {})=>state
-  movies
+  images
 });
 
 export default rootReducer;

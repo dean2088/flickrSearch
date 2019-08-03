@@ -23,75 +23,7 @@ ShallowWrapper {
       "children": Array [
         <Header />,
         undefined,
-        <Footer
-          list={
-            Array [
-              Object {
-                "href": "https://www.stan.com.au/",
-                "label": "Home",
-              },
-              Object {
-                "href": "https://www.stan.com.au/terms",
-                "label": "Terms and Conditions",
-              },
-              Object {
-                "href": "https://www.stan.com.au/privacy-policy",
-                "label": "Privacy Policy",
-              },
-              Object {
-                "href": "https://www.stan.com.au/collection-statement",
-                "label": "Collection Statement",
-              },
-              Object {
-                "href": "https://help.stan.com.au/",
-                "label": "Help",
-              },
-              Object {
-                "href": "https://www.stan.com.au/buygift",
-                "label": "Buy a Stan Gift Card",
-              },
-              Object {
-                "href": "https://my.stan.com.au/",
-                "label": "Manage Account",
-              },
-            ]
-          }
-          socials={
-            Array [
-              Object {
-                "href": "https://www.facebook.com/StanAustralia",
-                "label": "Facebook",
-              },
-              Object {
-                "href": "https://twitter.com/StanAustralia",
-                "label": "Twitter",
-              },
-              Object {
-                "href": "https://instagram.com/stanaustralia",
-                "label": "Instagram",
-              },
-            ]
-          }
-          stores={
-            Array [
-              Object {
-                "href": "https://itunes.apple.com/au/app/stan./id948095331?ls=1&amp;mt=8",
-                "id": "ios",
-                "label": "Stan on iOS",
-              },
-              Object {
-                "href": "https://play.google.com/store/apps/details?id=au.com.stan.and",
-                "id": "android",
-                "label": "Stan on Android",
-              },
-              Object {
-                "href": "https://www.microsoft.com/en-gb/store/apps/stan/9nblggh4wz0p",
-                "id": "windows",
-                "label": "Stan on Windows 10",
-              },
-            ]
-          }
-        />,
+        <Footer />,
       ],
       "className": "container___1JvL2",
       "id": "container",
@@ -112,69 +44,7 @@ ShallowWrapper {
         "instance": null,
         "key": undefined,
         "nodeType": "function",
-        "props": Object {
-          "list": Array [
-            Object {
-              "href": "https://www.stan.com.au/",
-              "label": "Home",
-            },
-            Object {
-              "href": "https://www.stan.com.au/terms",
-              "label": "Terms and Conditions",
-            },
-            Object {
-              "href": "https://www.stan.com.au/privacy-policy",
-              "label": "Privacy Policy",
-            },
-            Object {
-              "href": "https://www.stan.com.au/collection-statement",
-              "label": "Collection Statement",
-            },
-            Object {
-              "href": "https://help.stan.com.au/",
-              "label": "Help",
-            },
-            Object {
-              "href": "https://www.stan.com.au/buygift",
-              "label": "Buy a Stan Gift Card",
-            },
-            Object {
-              "href": "https://my.stan.com.au/",
-              "label": "Manage Account",
-            },
-          ],
-          "socials": Array [
-            Object {
-              "href": "https://www.facebook.com/StanAustralia",
-              "label": "Facebook",
-            },
-            Object {
-              "href": "https://twitter.com/StanAustralia",
-              "label": "Twitter",
-            },
-            Object {
-              "href": "https://instagram.com/stanaustralia",
-              "label": "Instagram",
-            },
-          ],
-          "stores": Array [
-            Object {
-              "href": "https://itunes.apple.com/au/app/stan./id948095331?ls=1&amp;mt=8",
-              "id": "ios",
-              "label": "Stan on iOS",
-            },
-            Object {
-              "href": "https://play.google.com/store/apps/details?id=au.com.stan.and",
-              "id": "android",
-              "label": "Stan on Android",
-            },
-            Object {
-              "href": "https://www.microsoft.com/en-gb/store/apps/stan/9nblggh4wz0p",
-              "id": "windows",
-              "label": "Stan on Windows 10",
-            },
-          ],
-        },
+        "props": Object {},
         "ref": null,
         "rendered": null,
         "type": [Function],
@@ -191,75 +61,7 @@ ShallowWrapper {
         "children": Array [
           <Header />,
           undefined,
-          <Footer
-            list={
-              Array [
-                Object {
-                  "href": "https://www.stan.com.au/",
-                  "label": "Home",
-                },
-                Object {
-                  "href": "https://www.stan.com.au/terms",
-                  "label": "Terms and Conditions",
-                },
-                Object {
-                  "href": "https://www.stan.com.au/privacy-policy",
-                  "label": "Privacy Policy",
-                },
-                Object {
-                  "href": "https://www.stan.com.au/collection-statement",
-                  "label": "Collection Statement",
-                },
-                Object {
-                  "href": "https://help.stan.com.au/",
-                  "label": "Help",
-                },
-                Object {
-                  "href": "https://www.stan.com.au/buygift",
-                  "label": "Buy a Stan Gift Card",
-                },
-                Object {
-                  "href": "https://my.stan.com.au/",
-                  "label": "Manage Account",
-                },
-              ]
-            }
-            socials={
-              Array [
-                Object {
-                  "href": "https://www.facebook.com/StanAustralia",
-                  "label": "Facebook",
-                },
-                Object {
-                  "href": "https://twitter.com/StanAustralia",
-                  "label": "Twitter",
-                },
-                Object {
-                  "href": "https://instagram.com/stanaustralia",
-                  "label": "Instagram",
-                },
-              ]
-            }
-            stores={
-              Array [
-                Object {
-                  "href": "https://itunes.apple.com/au/app/stan./id948095331?ls=1&amp;mt=8",
-                  "id": "ios",
-                  "label": "Stan on iOS",
-                },
-                Object {
-                  "href": "https://play.google.com/store/apps/details?id=au.com.stan.and",
-                  "id": "android",
-                  "label": "Stan on Android",
-                },
-                Object {
-                  "href": "https://www.microsoft.com/en-gb/store/apps/stan/9nblggh4wz0p",
-                  "id": "windows",
-                  "label": "Stan on Windows 10",
-                },
-              ]
-            }
-          />,
+          <Footer />,
         ],
         "className": "container___1JvL2",
         "id": "container",
@@ -280,69 +82,7 @@ ShallowWrapper {
           "instance": null,
           "key": undefined,
           "nodeType": "function",
-          "props": Object {
-            "list": Array [
-              Object {
-                "href": "https://www.stan.com.au/",
-                "label": "Home",
-              },
-              Object {
-                "href": "https://www.stan.com.au/terms",
-                "label": "Terms and Conditions",
-              },
-              Object {
-                "href": "https://www.stan.com.au/privacy-policy",
-                "label": "Privacy Policy",
-              },
-              Object {
-                "href": "https://www.stan.com.au/collection-statement",
-                "label": "Collection Statement",
-              },
-              Object {
-                "href": "https://help.stan.com.au/",
-                "label": "Help",
-              },
-              Object {
-                "href": "https://www.stan.com.au/buygift",
-                "label": "Buy a Stan Gift Card",
-              },
-              Object {
-                "href": "https://my.stan.com.au/",
-                "label": "Manage Account",
-              },
-            ],
-            "socials": Array [
-              Object {
-                "href": "https://www.facebook.com/StanAustralia",
-                "label": "Facebook",
-              },
-              Object {
-                "href": "https://twitter.com/StanAustralia",
-                "label": "Twitter",
-              },
-              Object {
-                "href": "https://instagram.com/stanaustralia",
-                "label": "Instagram",
-              },
-            ],
-            "stores": Array [
-              Object {
-                "href": "https://itunes.apple.com/au/app/stan./id948095331?ls=1&amp;mt=8",
-                "id": "ios",
-                "label": "Stan on iOS",
-              },
-              Object {
-                "href": "https://play.google.com/store/apps/details?id=au.com.stan.and",
-                "id": "android",
-                "label": "Stan on Android",
-              },
-              Object {
-                "href": "https://www.microsoft.com/en-gb/store/apps/stan/9nblggh4wz0p",
-                "id": "windows",
-                "label": "Stan on Windows 10",
-              },
-            ],
-          },
+          "props": Object {},
           "ref": null,
           "rendered": null,
           "type": [Function],

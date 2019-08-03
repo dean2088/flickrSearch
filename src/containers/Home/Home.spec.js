@@ -28,9 +28,4 @@ describe('containers/Home', () => {
   it('should render Home', () => {
     expect(wrapper).to.matchSnapshot();
   });
-
-  it('should load method be call', () => {
-    // eslint-disable-next-line no-unused-expressions
-    expect(load).to.have.been.calledOnce;
-  });
 });
